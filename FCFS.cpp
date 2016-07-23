@@ -41,16 +41,10 @@ main()
       }
     }
   }
- 
-  /*printf("Sorted list in ascending order:\n");
- 
-  for ( int c=1; c<=n ; c++ )
-     printf("%d\n", at[c]);*/
 
 	cout<<"Gantt Chart---"<<endl;
 	cout<<0;
 	for(int i=1;i<=n;i++)
-	
 	{
 		if(at[i]<=t)
 		{
