@@ -24,23 +24,23 @@ main()
 	}
 	for (int c = 1;c <n; c++)
   	{
-    for (int d = 1 ; d <(n - c); d++)
-    {
-      if (at[d] > at[d+1]) /* For decreasing order use < */
-      {
-        swap1=at[d];
-        at[d]=at[d+1];
-        at[d+1]=swap1;
-        
-        swap2=bt[d];
-        bt[d]=bt[d+1];
-        bt[d+1]=swap2;
-        
-        swap3=id[d];
-        id[d]=id[d+1];
-        id[d+1]=swap3;
-      }
-    }
+		for (int d = 1 ; d <(n - c); d++)
+		{
+		  if (at[d] > at[d+1]) /* For decreasing order use < */
+		  {
+			swap1=at[d];
+			at[d]=at[d+1];
+			at[d+1]=swap1;
+			
+			swap2=bt[d];
+			bt[d]=bt[d+1];
+			bt[d+1]=swap2;
+			
+			swap3=id[d];
+			id[d]=id[d+1];
+			id[d+1]=swap3;
+		  }
+		}
   }
 
 	cout<<"Gantt Chart---"<<endl;
