@@ -41,7 +41,7 @@ main()
 			id[d+1]=swap3;
 		  }
 		}
-  }
+	}
 
 	cout<<"Gantt Chart---"<<endl;
 	cout<<0;
@@ -61,6 +61,7 @@ main()
 			i--;
 		}
 	}
+	
 	cout<<endl<<endl;
 	printf("Patients- \tWaiting Time- \tTurn Around Time-\n");
 	for(int i=1;i<=n;i++)
