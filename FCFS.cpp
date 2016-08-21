@@ -63,7 +63,6 @@ main()
 		}
 	}
 	
-	
 	cout<<endl<<endl;
 	printf("Patients- \tWaiting Time- \tTurn Around Time-\n");
 	for(int i=1;i<=n;i++)
