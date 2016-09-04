@@ -130,12 +130,5 @@ main()
 			cout<<"  P"<<id[small]<<"  "<<t+bt[small];
 			t=t+bt[small];
 		}
-		else
-		{
-			cout<<"   Idle   "<<at[small];
-			t=at[small];
-			i--;
-		}
-		cout<<endl<<endl;
 	}*/
 }
