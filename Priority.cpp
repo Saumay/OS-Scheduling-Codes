@@ -58,7 +58,6 @@ main()
 		t=at[1];
 	}
 	
-	
 	for(int i=1;i<=n;i++)
 	{
 		for(int l=1;l<=n;l++)
