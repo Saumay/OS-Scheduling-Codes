@@ -114,13 +114,4 @@ main()
 	{
 		small=i;
 
-		cout<<"Small-"<<small;
-		if(at[small]<=t)
-		{
-			wt[small]=t-at[small];
-			tat[small]=wt[small]+bt[small];
-			cout<<"  P"<<id[small]<<"  "<<t+bt[small];
-			t=t+bt[small];
-		}
-	}*/
 }
