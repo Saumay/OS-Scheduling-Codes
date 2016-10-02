@@ -109,3 +109,4 @@ main()
 	cout<<"Average Waiting Time--"<<avgwt<<endl;
 	cout<<"Average Turnaround Time--"<<avgtt<<endl;
 }
+
