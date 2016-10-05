@@ -40,11 +40,6 @@ main()
         swap3=id[d];
         id[d]=id[d+1];
         id[d+1]=swap3;
-      	
-      	//cout<<"at="<<at[d];
-		/*swap4=pri[d];
-		pri[d]=pri[d+1];
-		pri[d+1]=swap4;*/
 	  }
     }
   	}
