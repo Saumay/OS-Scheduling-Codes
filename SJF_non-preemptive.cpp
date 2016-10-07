@@ -61,8 +61,7 @@ main()
 			{
 				small=l;
 				break;
-			}
-			//cout<<"small-"<<small<<endl;
+			};
 		}
 		
 		for(int j=1;at[j]<=t;j++)
