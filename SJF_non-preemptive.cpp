@@ -63,8 +63,7 @@ main()
 				break;
 			};
 		}
-		
-		
+			
 		for(int j=1;at[j]<=t;j++)
 		{
 			
