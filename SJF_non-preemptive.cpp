@@ -88,9 +88,6 @@ main()
 			t=at[small];
 			i--;
 		}
-		/*for(int c=1;c<=n;c++)
-			cout<<"condition-"<<condition[c];*/
-		
 	}
 	cout<<endl<<endl;
 	printf("Patients- \tWaiting Time- \tTurn Around Time-\n");
