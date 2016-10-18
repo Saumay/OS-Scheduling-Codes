@@ -132,5 +132,3 @@ main()
 		cout<<endl<<endl;
 	}*/
 }
-
-
