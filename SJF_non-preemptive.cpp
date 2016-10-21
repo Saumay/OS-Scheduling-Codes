@@ -106,14 +106,6 @@ main()
 	/*for(int i=1;i<=n;i++)
 	
 	{
-		cout<<"Small-"<<small;
-		if(at[small]<=t)
-		{
-			wt[small]=t-at[small];
-			tat[small]=wt[small]+bt[small];
-			cout<<"  P"<<id[small]<<"  "<<t+bt[small];
-			t=t+bt[small];
-		}
 		else
 		{
 			cout<<"   Idle   "<<at[small];
