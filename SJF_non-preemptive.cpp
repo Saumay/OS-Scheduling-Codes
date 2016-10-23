@@ -102,17 +102,5 @@ main()
 	avgtt=(float)sum2/n;
 	cout<<"Average Waiting Time="<<avgwt<<endl;
 	cout<<"Average Turnaround Time="<<avgtt<<endl;
-	
-	/*for(int i=1;i<=n;i++)
-	
-	{
-		else
-		{
-			cout<<"   Idle   "<<at[small];
-			t=at[small];
-			i--;
-		}
-		cout<<endl<<endl;
-	}*/
 }
 
