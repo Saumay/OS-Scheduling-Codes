@@ -23,6 +23,7 @@ main()
 		condition[i]=0;
 		cout<<endl;
 	}
+	
 	for (int c = 1;c <n; c++)
   	{
 		for (int d = 1 ; d <(n - c); d++)
