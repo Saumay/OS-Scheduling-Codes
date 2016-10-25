@@ -17,9 +17,6 @@ main()
 		scanf("%d",&at[i]); 
 		printf(" CONSULTION TIME: "); 
 		scanf("%d",&bt[i]); 
-		/*printf(" PRIORITY: ");
-		scanf("%d",&pri[i]);
-		printf("\n");*/
 		condition[i]=0;
 		cout<<endl;
 	}
