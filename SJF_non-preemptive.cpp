@@ -95,6 +95,7 @@ main()
 		sum2=sum2+tat[i];
 		printf("   P%d \t\t     %d \t\t%d\n",i,wt[i],tat[i]);
 	}
+	
 	cout<<endl;
 	avgwt=(float)sum1/n;
 	avgtt=(float)sum2/n;
