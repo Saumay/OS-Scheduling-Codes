@@ -82,8 +82,6 @@ main()
 			if(bt[j]<bt[small] && bt[j]>0 && condition[j]==0)
 				small=j;
 		}
-		//cout<<endl<<"small-"<<small<<endl; 
-		//cout<<"ct-"<<ct<<endl;
 		
 		ct_past=ct;
 		
