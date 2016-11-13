@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
 main()
 {
 	int n;
@@ -120,11 +119,6 @@ main()
 		//ll++;
 		
 		/*cout<<"WAITING TIME ARRAY--";
-		for(int i=1;i<=n;i++)
-		{
-			//wt[i]=wt[i]-at[i];
-			cout<<wt[i]<<" ";
-		}
 		cout<<endl<<"CONDITION ARRAY--"<<endl;
 		for(int i=1;i<=n;i++)
 			cout<<condition[i]<<" ";*/
