@@ -17,10 +17,7 @@ main()
 		scanf("%d",&at[i]); 
 		printf(" CONSULTION TIME: "); 
 		scanf("%d",&bt[i]);
-		bt2[i]=bt[i]; 
-		/*printf(" PRIORITY: ");
-		scanf("%d",&pri[i]);
-		printf("\n");*/
+		bt2[i]=bt[i];
 		condition[i]=0;
 		wt[i]=-at[i];
 		cout<<endl;
