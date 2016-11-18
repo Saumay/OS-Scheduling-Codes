@@ -51,7 +51,7 @@ main()
   	cout<<"GANTT CHART---"<<endl;
 	int ct=0;
 	cout<<ct;
-	//int ll=0;
+	
 	while(1)
 	{
 		int dur=0,ct_past=0,count=0;
