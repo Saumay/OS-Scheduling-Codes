@@ -113,11 +113,6 @@ main()
 			condition[small]=-1;
 		}
 		cout<<"   P"<<id[small]<<"   "<<ct;
-		
-		/*cout<<"WAITING TIME ARRAY--";
-		cout<<endl<<"CONDITION ARRAY--"<<endl;
-		for(int i=1;i<=n;i++)
-			cout<<condition[i]<<" ";*/
 
 	}
 	cout<<endl<<endl;
