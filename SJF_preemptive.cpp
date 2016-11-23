@@ -113,8 +113,8 @@ main()
 			condition[small]=-1;
 		}
 		cout<<"   P"<<id[small]<<"   "<<ct;
-
 	}
+	
 	cout<<endl<<endl;
 	for(int i=1;i<=n;i++)
 	{
