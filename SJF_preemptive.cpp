@@ -90,6 +90,7 @@ main()
 				}
 			}
 		}
+		
 		else if(ct>=at[n])
 		{
 			ct=ct+bt[small];
