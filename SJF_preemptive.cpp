@@ -41,7 +41,6 @@ main()
 				id[d]=id[d+1];
 				id[d+1]=swap3;
 			
-			  //cout<<"at="<<at[d];
 				swap4=wt[d];
 				wt[d]=wt[d+1];
 				wt[d+1]=swap4;
