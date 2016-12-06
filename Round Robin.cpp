@@ -2,6 +2,7 @@
 #define MAX 50
 
 main()
+
 {
 	int i,n,m,j=0;
 	int b[20],b1[20],f[20],w[20];
