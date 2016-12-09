@@ -58,6 +58,3 @@ main()
 	printf("\n Average Waiting Time : %0.2f",aw);
 	printf("\n Average Turn Around Time : %0.2f ",at);
 }
-
-
-
