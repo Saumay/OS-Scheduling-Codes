@@ -46,6 +46,7 @@ main()
 	}
 
 	printf("\n\nProcess No\tbursttime\t WaitingTime\t TurnAroundTime");
+	
 	for(i=1;i<=n;i++)
 	{
 		printf("\n\np%d\t\t%3d\t\t%3d\t\t%3d",i,b1[i],w[i],f[i]);
