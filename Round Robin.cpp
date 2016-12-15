@@ -1,6 +1,7 @@
 #include <stdio.h>
 #define MAX 50
 
+
 main()
 {
 	int i,n,m,j=0;
