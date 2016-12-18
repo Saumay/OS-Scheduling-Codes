@@ -19,6 +19,7 @@ main()
 		b1[i]=b[i];
 		total=total+b[i];
 	}
+	
 	start=0;
 	
 	while (j<total)
