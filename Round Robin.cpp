@@ -20,6 +20,7 @@ main()
 		total=total+b[i];
 	}
 	
+	
 	start=0;
 	
 	while (j<total)
